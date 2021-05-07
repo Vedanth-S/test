@@ -4,6 +4,7 @@ if (word[0].isalpha()==True) and ((word[0] in "bcdfghjklmnpqrstvwxyz") or (word[
 else:
     print("The Pig latin equivalent of the word is",word+"yay")
 
+print("hello")
 
             
     
